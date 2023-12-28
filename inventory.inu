@@ -1,2 +1,5 @@
 [mongodb]
-172.31.29.64
+mongodb.robodevops.shop
+
+[catalogue]
+catalogue.robodevops.shop
