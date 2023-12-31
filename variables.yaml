@@ -1,4 +1,4 @@
-MONGODB_HOST: mongodb.robodevops.shop  # submit your host
+MONGODB_HOST: mongodb.robodevops.shop  
 REDIS_HOST: redis.robodevops.shop
 MYSQL_HOST: mysql.robodevops.shop
 RABBITMQ_HOST: rabbitmq.robodevops.shop
@@ -8,3 +8,4 @@ CART_HOST: cart.robodevops.shop
 SHIPPING_HOST: shipping.robodevops.shop
 PAYMENT_HOST: payment.robodevops.shop
 DISPATCH_HOST: dispatch.robodevops.shop
+web: robodevops.shop
