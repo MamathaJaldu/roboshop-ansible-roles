@@ -8,3 +8,5 @@ CART_HOST: cart.robodevops.shop
 SHIPPING_HOST: shipping.robodevops.shop
 PAYMENT_HOST: payment.robodevops.shop
 DISPATCH_HOST: dispatch.robodevops.shop
+web: web.robodevops.shop
+
